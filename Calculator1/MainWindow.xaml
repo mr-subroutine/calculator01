@@ -22,7 +22,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Label Content="0" Grid.ColumnSpan="4" HorizontalAlignment="Right" 
-               VerticalAlignment="Bottom" FontSize="60" />
+               VerticalAlignment="Bottom" FontSize="64" />
         <Button Content="AC" Grid.Row="1" Margin="5"/>
         <Button Content="+/1" Grid.Row="1" Grid.Column="1" Margin="5"/>
         <Button Content="%" Grid.Row="1" Grid.Column="2" Margin="5"/>
